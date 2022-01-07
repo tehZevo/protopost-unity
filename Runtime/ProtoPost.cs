@@ -5,7 +5,7 @@ using UnityEngine.Networking;
 using System.Text;
 using Newtonsoft.Json.Linq;
 
-namespace ProtoPost
+namespace ProtoPostNS
 {
   public class ProtoPost
   {
